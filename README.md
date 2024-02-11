@@ -1,4 +1,3 @@
-# Assessment-for-Web3-project
 # Topic- Polygon
 Polygon comes from Greek. "Poly" means "many" and "gon" means "angle".Polygons are made of straight lines, and the shape is "closed" (it automatically connects the last point with the first). Polygons can be classified based on the number of sides they have. 
 # Common types of polygons 
